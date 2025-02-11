@@ -15,8 +15,8 @@ def main_menu():
     choice = input(" • Enter your choice (1-3): ")
     
     scripts = {
-        "1": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/gs.py",
-        "2": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/gr.py",
+        "1": "https://raw.githubusercontent.com/k3s63/high/refs/heads/main/ENC-h2.py",
+        "2": "https://raw.githubusercontent.com/k3s63/high/refs/heads/main/ENC-h.py",
         "3": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/reset.py",
     }
     
